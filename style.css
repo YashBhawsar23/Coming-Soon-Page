@@ -8,6 +8,7 @@
 .container h1 {
     color: #fff;
     cursor: pointer;
+    padding: 20px 0;
 }
 .container{
     width: 100vw;
